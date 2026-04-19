@@ -65,7 +65,7 @@ $$T_2 = \frac{\lambda_1 \cdot T_1}{\lambda_2} \approx 2928\ \text{K} = 2655°\te
 6. Przejście z orbity 5 i emisja $13{,}056\ \text{eV}$: elektron trafia na orbitę $n = 1$.
 7. Prędkość elektronu na 3. orbicie:
 
-$$v \approx 7{,}28 \times 10^{5}\ \text{m/s}, \quad \frac{v}{c} \approx 2{,}43 \times 10^{-3}\ (\approx 0{,}243\%)$$
+$$v \approx 7{,}28 \times 10^{5}\ \text{m/s}, \quad \frac{v}{c} \approx 2{,}43 \times 10^{-3}\ \approx 0{,}243\%)$$
 
 ## 6) fa4d09ea-e19b-428b-8460-eaf7d552604e.jpg (fizyka atomowa)
 1. Ochłodzony ten sam gaz: D (pochłania promieniowanie o określonych długościach fal).
@@ -76,7 +76,7 @@ $$v \approx 7{,}28 \times 10^{5}\ \text{m/s}, \quad \frac{v}{c} \approx 2{,}43 \
 6. Przejście z orbity 4 i emisja $12{,}75\ \text{eV}$: orbita końcowa $n = 1$.
 7. Prędkość elektronu na 2. orbicie:
 
-$$v \approx 1{,}09 \times 10^{6}\ \text{m/s}, \quad \frac{v}{c} \approx 3{,}64 \times 10^{-3}\ (\approx 0{,}364\%)$$
+$$v \approx 1{,}09 \times 10^{6}\ \text{m/s}, \quad \frac{v}{c} \approx 3{,}64 \times 10^{-3}\ \approx 0{,}364\%)$$
 
 ## 7) ebf8ff3c-58ab-49a3-aa64-5d8f747fb240.jpg (fizyka atomowa)
 1. Energia fotonu $= 5\ \text{eV}$, energia kinetyczna elektronu $E_k = 2\ \text{eV}$, więc praca wyjścia $W = 3\ \text{eV}$.

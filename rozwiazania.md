@@ -1,7 +1,7 @@
 # Rozwiązania zadań z plików `.jpg`
 
 ## 1) `55aa10b4-3dba-424a-8e79-22baef62444a.jpg` (termodynamika)
-1. \/lambda de Broglie'a (cząstka alfa):  
+1. λ de Broglie'a (cząstka alfa):  
    \(\lambda=\frac{h}{mv}=\frac{6.63\cdot10^{-34}}{6.54\cdot10^{-27}\cdot0.04\cdot3\cdot10^8}\approx 8.45\cdot10^{-15}\,m\)
 2. Prawo Wiena: \(\lambda_2=\lambda_1\frac{T_1}{T_2}=7.8\,\mu m\cdot\frac{373}{1273}\approx2.29\,\mu m\) → **D (2,29 µm)**.
 3. P/F: **P, F, P**.

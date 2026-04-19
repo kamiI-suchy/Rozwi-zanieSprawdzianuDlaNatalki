@@ -71,7 +71,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 2. Prawda/Fałsz: F, P, F.
 3. Uzupełnienia: A, C, F (zjawisko fotoch./fotochemiczne; opalanie; fotosynteza).
 4. Dla lambda = 510 nm:
-   energia fotonu E = hc/lambda ≈ 2,43 eV.
+   energia fotonu E = hc/lambda ≈ 2,44 eV.
    Dla tytanu (W = 4,33 eV): efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, P, F.
 6. Dla równej długości fali materii elektronu i protonu: Ee ≈ 1836 * Ep (równoważnie Ep ≈ Ee/1836).
@@ -105,6 +105,6 @@ Dodatkowo przeliczone i potwierdzone zostały wartości liczbowe pojawiające si
 - lambda = 1,21×10^-10 m,
 - lambda z prawa Wiena = 2,29 µm,
 - T2 = 2928 K = 2655°C,
-- E(fotonu, 510 nm) ≈ 2,43 eV,
+- E(fotonu, 510 nm) ≈ 2,44 eV,
 - E(fotonu, 570 nm) ≈ 2,18 eV,
 - udziały v/c: 2,43×10^-3 i 3,64×10^-3.

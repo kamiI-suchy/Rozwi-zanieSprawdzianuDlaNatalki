@@ -4,9 +4,9 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 
 ## 1) 55aa10b4-3dba-424a-8e79-22baef62444a.jpg (termodynamika)
 1. Długość fali de Broglie'a (cząstka alfa):
-   lambda = h / (m * v) = 6,63×10^-34 / (6,54×10^-27 * 0,04 * 3×10^8) ≈ 8,45×10^-15 m.
+   λ = h / (m * v) = 6,63×10^-34 / (6,54×10^-27 * 0,04 * 3×10^8) ≈ 8,45×10^-15 m.
 2. Prawo Wiena:
-   lambda2 = lambda1 * T1 / T2 = 7,8 µm * 373 / 1273 ≈ 2,29 µm -> odpowiedź D (2,29 µm).
+   λ2 = λ1 * T1 / T2 = 7,8 µm * 373 / 1273 ≈ 2,29 µm -> odpowiedź D (2,29 µm).
 3. Prawda/Fałsz: P, F, P.
 4. Gwiazdy od najzimniejszej: B, A, C.
 5. Dopasowanie temperatury do maksimum emisji: 1-A, 2-C, 3-B.
@@ -16,10 +16,10 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 
 ## 2) 7ce9e394-5fc8-4132-86a7-144f53b63111.jpg (termodynamika)
 1. Długość fali de Broglie'a (elektron):
-   lambda = h / (m * v) = 6,63×10^-34 / (9,11×10^-31 * 0,02 * 3×10^8) ≈ 1,21×10^-10 m.
+   λ = h / (m * v) = 6,63×10^-34 / (9,11×10^-31 * 0,02 * 3×10^8) ≈ 1,21×10^-10 m.
 2. Prawo Wiena:
-   dane: lambda1 = 2,3 µm, T1 = 1273 K, lambda2 = 1 µm.
-   T2 = (lambda1 * T1) / lambda2 ≈ 2928 K = 2655°C -> odpowiedź C.
+   dane: λ1 = 2,3 µm, T1 = 1273 K, λ2 = 1 µm.
+   T2 = (λ1 * T1) / λ2 ≈ 2928 K = 2655°C -> odpowiedź C.
 3. Prawda/Fałsz: F, P, F.
 4. Gwiazdy od najzimniejszej: B, A, C.
 5. Dopasowanie: 1-B, 2-A, 3-C.
@@ -71,7 +71,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 2. Prawda/Fałsz: F, P, F.
 3. Uzupełnienia: A, C, F (zjawisko fotoch./fotochemiczne; opalanie; fotosynteza).
 4. Dla długości fali λ = 510 nm:
-   energia fotonu E = hc/lambda ≈ 2,44 eV.
+   energia fotonu E = hc/λ ≈ 2,44 eV.
    Dla tytanu (W = 4,33 eV): efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, P, F.
 6. Dla równej długości fali materii elektronu i protonu: Ee ≈ 1836 * Ep (równoważnie Ep ≈ Ee/1836).
@@ -85,7 +85,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 4. Dla ołowiu i długości fali λ = 570 nm:
    energia fotonu ≈ 2,18 eV < W(Pb) = 4,25 eV, więc efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, F, F.
-6. Dla tej samej energii kinetycznej elektronu i protonu: lambda_e > lambda_p.
+6. Dla tej samej energii kinetycznej elektronu i protonu: λ_e > λ_p.
 7. Długość fali materii będzie większa dla: B i D.
 
 ## 9) Zdjęcia z odręcznymi notatkami
@@ -101,9 +101,9 @@ Rozwiązania, które dało się przepisać z notatek i wcześniejszego zestawien
 
 ## Weryfikacja poprawności obliczeń
 Dodatkowo przeliczone i potwierdzone zostały wartości liczbowe pojawiające się w rozwiązaniach, m.in.:
-- lambda = 8,45×10^-15 m,
-- lambda = 1,21×10^-10 m,
-- lambda z prawa Wiena = 2,29 µm,
+- λ = 8,45×10^-15 m,
+- λ = 1,21×10^-10 m,
+- λ z prawa Wiena = 2,29 µm,
 - T2 = 2928 K = 2655°C,
 - E(fotonu, 510 nm) ≈ 2,44 eV,
 - E(fotonu, 570 nm) ≈ 2,18 eV,

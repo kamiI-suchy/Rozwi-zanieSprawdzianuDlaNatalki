@@ -74,7 +74,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
    energia fotonu E = hc/λ ≈ 2,44 eV.
    Dla tytanu (W = 4,33 eV): efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, P, F.
-6. Dla równej długości fali materii elektronu i protonu: Ee ≈ 1836 * Ep (równoważnie Ep ≈ Ee/1836).
+6. Dla równej długości fali materii elektronu i protonu: Ee ≈ 1836 * Ep.
 7. Długość fali materii będzie mniejsza dla: A i C.
 
 ## 8) efd3bb96-b096-4a4d-a93e-bc311c5e6064.jpg (fizyka atomowa)
@@ -101,8 +101,8 @@ Rozwiązania, które dało się przepisać z notatek i wcześniejszego zestawien
 
 ## Weryfikacja poprawności obliczeń
 Dodatkowo przeliczone i potwierdzone zostały wartości liczbowe pojawiające się w rozwiązaniach, m.in.:
-- λ = 8,45×10^-15 m,
-- λ = 1,21×10^-10 m,
+- λ de Broglie (cząstka alfa) = 8,45×10^-15 m,
+- λ de Broglie (elektron) = 1,21×10^-10 m,
 - λ z prawa Wiena = 2,29 µm,
 - T2 = 2928 K = 2655°C,
 - E(fotonu, 510 nm) ≈ 2,44 eV,

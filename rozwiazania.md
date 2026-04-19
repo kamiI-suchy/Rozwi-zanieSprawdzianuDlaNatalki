@@ -69,7 +69,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 1. Jeśli energia fotonu to 5 eV i energia kinetyczna elektronu to 2 eV, to praca wyjścia = 3 eV.
    Po podwojeniu energii fotonu: Ek = 10 - 3 = 7 eV -> wynik 7 eV.
 2. Prawda/Fałsz: F, P, F.
-3. Uzupełnienia: A, C, F (zjawisko fotoch./fotochemiczne; opalanie; fotosynteza).
+3. Uzupełnienia: A, C, F (zjawisko fotoelektryczne/fotochemiczne; opalanie; fotosynteza).
 4. Dla długości fali λ = 510 nm:
    energia fotonu E = hc/λ ≈ 2,44 eV.
    Dla tytanu (W = 4,33 eV): efekt fotoelektryczny nie zajdzie.

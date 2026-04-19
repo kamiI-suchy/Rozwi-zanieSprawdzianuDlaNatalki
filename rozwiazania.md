@@ -60,7 +60,7 @@ $$T_2 = \frac{\lambda_1 \cdot T_1}{\lambda_2} \approx 2928\ \text{K} = 2655°\te
 1. Widmo gorącego gazu: B (liniowe emisyjne).
 2. Prawda/Fałsz: P, F, F.
 3. Uzupełnienia: B, D, E (zróżnicowanej; wyłącznie o określonej; widmo absorpcyjne).
-4. Jonizacja — poprawne: B, C, D.
+4. Jonizacja — poprawne: C, D.
 5. Przeskok z $-2\ \text{eV}$ na $-8\ \text{eV}$: energia fotonu $= 6\ \text{eV}$.
 6. Przejście z orbity 5 i emisja $13{,}056\ \text{eV}$: elektron trafia na orbitę $n = 1$.
 7. Prędkość elektronu na 3. orbicie:

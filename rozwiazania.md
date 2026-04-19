@@ -70,7 +70,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
    Po podwojeniu energii fotonu: Ek = 10 - 3 = 7 eV -> wynik 7 eV.
 2. Prawda/Fałsz: F, P, F.
 3. Uzupełnienia: A, C, F (zjawisko fotoch./fotochemiczne; opalanie; fotosynteza).
-4. Dla lambda = 510 nm:
+4. Dla długości fali λ = 510 nm:
    energia fotonu E = hc/lambda ≈ 2,44 eV.
    Dla tytanu (W = 4,33 eV): efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, P, F.
@@ -82,7 +82,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
    Energia kinetyczna elektronu: Ek = 5,5 - 2,75 = 2,75 eV (efekt fotoelektryczny zachodzi).
 2. Prawda/Fałsz: F, P, F.
 3. Uzupełnienia: B, C, E (fotoelektryczny; większej; energię).
-4. Dla ołowiu i lambda = 570 nm:
+4. Dla ołowiu i długości fali λ = 570 nm:
    energia fotonu ≈ 2,18 eV < W(Pb) = 4,25 eV, więc efekt fotoelektryczny nie zajdzie.
 5. Prawda/Fałsz: P, F, F.
 6. Dla tej samej energii kinetycznej elektronu i protonu: lambda_e > lambda_p.

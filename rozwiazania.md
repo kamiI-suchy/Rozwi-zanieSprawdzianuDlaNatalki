@@ -4,7 +4,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 
 ## 1) 55aa10b4-3dba-424a-8e79-22baef62444a.jpg (termodynamika)
 1. Długość fali de Broglie'a (cząstka alfa):
-   λ = h / (m * v) = 6,63*10^-34 / (6,54*10^-27 * 0,04 * 3*10^8) ≈ 8,45*10^-15 m.
+   λ = h / (m * v) = 6,63*10^(-34) / (6,54*10^(-27) * 0,04 * 3*10^8) ≈ 8,45*10^(-15) m.
 2. Prawo Wiena:
    λ2 = λ1 * T1 / T2 = 7,8 µm * 373 / 1273 ≈ 2,29 µm -> odpowiedź D (2,29 µm).
 3. Prawda/Fałsz: P, F, P.
@@ -16,7 +16,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 
 ## 2) 7ce9e394-5fc8-4132-86a7-144f53b63111.jpg (termodynamika)
 1. Długość fali de Broglie'a (elektron):
-   λ = h / (m * v) = 6,63*10^-34 / (9,11*10^-31 * 0,02 * 3*10^8) ≈ 1,21*10^-10 m.
+   λ = h / (m * v) = 6,63*10^(-34) / (9,11*10^(-31) * 0,02 * 3*10^8) ≈ 1,21*10^(-10) m.
 2. Prawo Wiena:
    dane: λ1 = 2,3 µm, T1 = 1273 K, λ2 = 1 µm.
    T2 = (λ1 * T1) / λ2 ≈ 2928 K = 2655°C -> odpowiedź C.
@@ -53,7 +53,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 5. Przeskok z -2 eV na -8 eV: energia fotonu = 6 eV.
 6. Przejście z orbity 5 i emisja 13,056 eV: elektron trafia na orbitę n = 1.
 7. Prędkość elektronu na 3. orbicie:
-   v ≈ 7,28*10^5 m/s, czyli v/c ≈ 2,43*10^-3 (około 0,243%).
+   v ≈ 7,28*10^5 m/s, czyli v/c ≈ 2,43*10^(-3) (około 0,243%).
 
 ## 6) fa4d09ea-e19b-428b-8460-eaf7d552604e.jpg (fizyka atomowa)
 1. Ochłodzony ten sam gaz: D (pochłania promieniowanie o określonych długościach fal).
@@ -63,7 +63,7 @@ Poniżej są przepisane odpowiedzi i obliczenia w zwykłym zapisie tekstowym.
 5. Absorpcja 4 eV z poziomu -5 eV: poziom końcowy = -1 eV.
 6. Przejście z orbity 4 i emisja 12,75 eV: orbita końcowa n = 1.
 7. Prędkość elektronu na 2. orbicie:
-   v ≈ 1,09*10^6 m/s, czyli v/c ≈ 3,64*10^-3 (około 0,364%).
+   v ≈ 1,09*10^6 m/s, czyli v/c ≈ 3,64*10^(-3) (około 0,364%).
 
 ## 7) ebf8ff3c-58ab-49a3-aa64-5d8f747fb240.jpg (fizyka atomowa)
 1. Jeśli energia fotonu to 5 eV i energia kinetyczna elektronu to 2 eV, to praca wyjścia = 3 eV.
@@ -101,10 +101,10 @@ Rozwiązania, które dało się przepisać z notatek i wcześniejszego zestawien
 
 ## Weryfikacja poprawności obliczeń
 Dodatkowo przeliczone i potwierdzone zostały wartości liczbowe pojawiające się w rozwiązaniach, m.in.:
-- λ de Broglie (cząstka alfa) = 8,45*10^-15 m,
-- λ de Broglie (elektron) = 1,21*10^-10 m,
+- λ de Broglie (cząstka alfa) = 8,45*10^(-15) m,
+- λ de Broglie (elektron) = 1,21*10^(-10) m,
 - λ z prawa Wiena = 2,29 µm,
 - T2 = 2928 K = 2655°C,
 - E(fotonu, 510 nm) ≈ 2,44 eV,
 - E(fotonu, 570 nm) ≈ 2,18 eV,
-- udziały v/c: 2,43*10^-3 i 3,64*10^-3.
+- udziały v/c: 2,43*10^(-3) i 3,64*10^(-3).
